@@ -14,7 +14,7 @@
 - [crunch.co.uk: Five freelance job sites that actually pay well](https://www.crunch.co.uk/blog/freelancer-advice/2013/04/15/five-freelance-work-from-home-job-sites-that-actually-pay-well/)
 	- [www.3desk.com](http://www.3desk.com)
 	- [crew.co](https://crew.co/)
-- [entrepreneur.com: The 15 Best Freelance Websites to Find Jobs](http://www.entrepreneur.com/article/245953)
+- [Remotelyworking.org: The 15 Best Freelance Websites to Find Jobs](https://remotelyworking.org/best-freelance-websites-to-find-jobs/)
 	- [toptal.com](http://www.toptal.com/)
 	- [elance.com](https://www.elance.com/)
 	- [freelancers.net](http://www.freelancers.net/)
